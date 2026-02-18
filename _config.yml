@@ -1,0 +1,15 @@
+# GitHub Pages configuration
+
+# Here you can set various options for your GitHub Pages site:
+
+# Personal information
+name: "Your Name"
+email: "your-email@example.com"
+
+# Build settings
+remote_theme: "sergiokopplin/indigo" # Example theme
+
+# URL settings
+url: "https://jkourashi.github.io"
+# Description of the site
+description: "Your website description"
